@@ -1,0 +1,15 @@
+{
+    "name": "serverless-fastapi",
+    "version": "1.0.0",
+    "description": "Sample template for deploying FastAPI-based API with Serverless Framework",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "serverless-python-requirements": "^6.0.0"
+    }
+}
